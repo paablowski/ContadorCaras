@@ -1,4 +1,4 @@
-import sys, Ice, cv2, binascii
+import sys, Ice, cv2
 import Demo
 
 # importar modelo
